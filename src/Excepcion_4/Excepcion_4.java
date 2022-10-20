@@ -1,4 +1,4 @@
-package Exception_4;
+package Excepcion_4;
 
 import java.io.*;
 
@@ -6,7 +6,7 @@ import java.io.*;
 * Declaración Excepciones Verificadas
 * */
 
-public class Exception_4 {
+public class Excepcion_4 {
 
     public static void leerArchivo() throws IOException {
         File archivo = new File("C:\\Users\\galvi\\Documents\\Excepciones\\TextoPrueba.txt");
